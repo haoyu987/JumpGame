@@ -18,5 +18,7 @@ A = [3,2,1,0,4], return false.
 References
 
 [1] https://en.wikipedia.org/wiki/Dynamic_programming
+
 [2] https://en.wikipedia.org/wiki/Memoization
+
 [3] https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design
